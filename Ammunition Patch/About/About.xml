@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Ammunition Patch : Rim of Madness - Bones</name>
+  <author>slapMYmarsupial</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>If Rim of Madness - Bones is loaded with Ammunition:
+  
+  Then adds bone to ingredients option for primitive ammo. 
+  </description>
+</ModMetaData>
